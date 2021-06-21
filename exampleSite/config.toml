@@ -16,10 +16,6 @@ parent = "Home"
 url = "homepage/home-2"
 weight = 2
 [[menu.main]]
-name = "Categories"
-url = "categories"
-weight = 3
-[[menu.main]]
 name = "About"
 url = "about"
 weight = 2
