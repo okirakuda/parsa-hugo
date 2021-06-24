@@ -5,9 +5,8 @@ description: はじめまして
 type: featured
 image: images/featured-post/post-5.jpg
 categories:
-- らくだのこと
+- ひとりごと
 tags:
-- らくだのこと
 - ひとりごと
 
 ---
