@@ -8,6 +8,7 @@ categories:
 - ひとりごと
 tags:
 - ひとりごと
+draft: true
 
 ---
 # はじめまして
